@@ -30,7 +30,7 @@ Follow these steps to set up the plugin:
   Add file name and link for richer context.
 
 - **Figma Integration**  
-  Generates a text node directly in your Figma file, displaying results clearly.
+  Generates a text node directly in your Figma file, appends the Score to the frame which you have selected.
 
 ## 🛠 Development Setup
 
@@ -39,4 +39,4 @@ Follow these steps to set up the plugin:
 
 2. **Compile TypeScript to JavaScript**  
    - Open your plugin directory in VS Code.
-   - Go to Terminal > Run Build Task… and select npm: watch.
+   - Go to Terminal > Run Build Task… / cmd + shift + B and select npm: watch.
