@@ -2,7 +2,7 @@
 
 A Figma plugin to calculate the reusability of your design components with precision and simplicity.
 
-## 🚀 Getting Started
+## Getting Started
 
 Follow these steps to set up the plugin:
 
@@ -21,7 +21,7 @@ Follow these steps to set up the plugin:
    npm install --save-dev @figma/plugin-typings
    ```
 
-## 🎯 Features
+## Features
 
 - **Dynamic Reusability Calculation**  
   Input total and reused numbers to get an instant reusability score.
@@ -32,7 +32,7 @@ Follow these steps to set up the plugin:
 - **Figma Integration**  
   Generates a text node directly in your Figma file, appends the Score to the frame which you have selected.
 
-## 🛠 Development Setup
+## Development Setup
 
 1. **Use Visual Studio Code**  
    Download VS Code for an optimal development environment.
